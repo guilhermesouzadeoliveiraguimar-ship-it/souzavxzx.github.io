@@ -61,7 +61,25 @@ button {
     max-width: 600px;
 }
 
-.final p {
-    font-size: 22px;
+.foto {
+    display: block;
+
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+
+    margin: 0 auto 25px;
+
+    border-radius: 20px;
+}
+
+.mensagem {
+    text-align: left;
+}
+
+.mensagem p {
+    font-size: 20px;
     line-height: 1.6;
+
+    margin-bottom: 18px;
 }
